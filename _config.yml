@@ -1,5 +1,5 @@
 name: Every Net an Intelligence
-highlighter: true
+highlighter: rogue
 url: 
 gems: [jekyll-paginate,  jekyll-gist]
 paginate: 8
