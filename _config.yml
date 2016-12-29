@@ -1,0 +1,34 @@
+name: Every Net an Intelligence
+highlighter: true
+url: 
+gems: [jekyll-paginate,  jekyll-gist]
+paginate: 8
+description: All about AI and wierd knowledge.
+intro: Every Net an Intelligence is a repository of my understanding of the wierd environment.
+logo:             
+disqus_shortname:
+# url: http://gotchacode.com
+#Comment out url when working locally to resolve base urls correctly
+#url:
+
+# Owner/author information
+owner:
+  name:           Sayon Dutta
+  avatar:         <avatar-image-link>
+  email:          sayon.dutta@gmail.com
+  # Social networking links used in footer. Update and remove as you like.
+  twitter: https://twitter.com/sayondutta  
+  github: https://github.com/sayondutta
+  linkedin: https://in.linkedin.com/in/sayon-dutta-17537b46
+  quora: https://www.quora.com/profile/Sayon-Dutta
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:
+google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Links to include in top navigation
+# For external links add external: true
