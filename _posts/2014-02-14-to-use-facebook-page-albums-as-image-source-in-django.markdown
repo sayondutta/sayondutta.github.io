@@ -6,9 +6,6 @@ comments: true
 categories: 
 ---
 
-Copied post Just for testing purpose
-=====================================
-
 Lot of companies use Facebook for marketing their products. Facebook is mainly built around images. In fact the whole ecosystem is fueled by images. In order to scale for the vast user base of Facebook, they have done a really good job. 
 
 So what if you don't want to use your own storage for uploading images and want to use Facebook for Images? It would be so cool, right?
@@ -104,3 +101,6 @@ Here is the image of this plugin live in action:
 <a href="http://imgur.com/dmrxcXh"><img src="http://i.imgur.com/dmrxcXh.png" title="Hosted by imgur.com" /></a>
 
 The plugin is open sourced here: [cmsplugin-fbgallery](https://github.com/changer/cmsplugin-fbgallery) . Feel free to contribute and ask questions.
+
+Copied post Just for testing purpose
+=====================================
