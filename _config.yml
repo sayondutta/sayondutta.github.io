@@ -4,7 +4,7 @@ url:
 gems: [jekyll-paginate,  jekyll-gist]
 paginate: 8
 description: All about AI and wierd knowledge.
-intro:
+intro: 
 logo:             
 disqus_shortname:
 # url: http://gotchacode.com
