@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What I learned from 'Nuts and Bolts  of Applying Deep Learning by Andrew Ng'"
-date: 2017-01-17 24:39:36 +0530
+date: 2017-01-18 12:42:00 +0530
 comments: true
 categories: Deep Learning, Machine Learning, Data Science, Artificial Intelligence
 ---
@@ -10,11 +10,10 @@ Lots of companies are using Aritifical Intelligence(AI) these days. Tech giants 
 
 Recently, I came across this session of Andrew Ng during Bay Area Deep Learning School. And it was a good learning experience, since it focussed especially on important points to consider while applying Deep Learning in production.
 
-<object width="420" height="315"
-data="https://www.youtube.com/watch?v=F1ka6a13S9I">
-</object>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/F1ka6a13S9I" frameborder="0" allowfullscreen></iframe>
 
-```Why Deep Learning now ?
+```
+Why Deep Learning now ?
    - Scale (Scale of Data & Scale of Computation)
    - End to End Approach 
 ```
