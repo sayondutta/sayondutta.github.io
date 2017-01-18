@@ -18,7 +18,7 @@ Why Deep Learning now ?
    - End to End Approach 
 ```
 
-<img src='https://raw.githubusercontent.com/sayondutta/sayondutta.github.io/master/_posts/images/Performance%20Vs%20Data.png'/>
+<img src='https://s27.postimg.org/fspka0jsz/Performance_Vs_Data.png'/>
 
 
 =====================
