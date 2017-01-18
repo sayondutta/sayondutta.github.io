@@ -17,3 +17,5 @@ Why Deep Learning now ?
    - Scale (Scale of Data & Scale of Computation)
    - End to End Approach 
 ```
+
+<img src='images/Performance Vs Data.png'/>
