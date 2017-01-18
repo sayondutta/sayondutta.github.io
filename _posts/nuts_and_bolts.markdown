@@ -10,7 +10,7 @@ Lots of companies are using Aritifical Intelligence(AI) these days. Tech giants 
 
 Recently, I came across this session of Andrew Ng during Bay Area Deep Learning School. And it was a good learning experience, since it focussed especially on important points to consider while applying Deep Learning in production.
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/F1ka6a13S9I" frameborder="0" allowfullscreen></iframe>
+[![](https://img.youtube.com/vi/F1ka6a13S9I/0.jpg)](https://www.youtube.com/watch?v=F1ka6a13S9I)
 
 ```
 Why Deep Learning now ?
