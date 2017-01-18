@@ -3,7 +3,7 @@ layout: post
 title: "What I learned from 'Nuts and Bolts  of Applying Deep Learning by Andrew Ng'"
 date: 2017-01-18 12:42:00 +0530
 comments: true
-categories: Deep Learning, Machine Learning, Data Science, Artificial Intelligence
+categories: 
 ---
 
 Lots of companies are using Aritifical Intelligence(AI) these days. Tech giants are pushing AI modules in their pipeline for better outputs. In fact a big part of startup ecosystem is fueled by Artificial Intelligence. Though we are moving through the age of ANI(Artificial Narrow Intelligence) yet the power of AI is taking like a roar. On one hand, where Deep Learning is pushing supervised learning up the breakthrough ladder while on the other hand, unsupervised learning is still more on the side of unsolved mystery which is exciting the greatest mind in the field to explore. This also opens up the opportunity for other AI aspirants like me to learn from the best minds and collaborate in this exciting journey.
@@ -18,4 +18,5 @@ Why Deep Learning now ?
    - End to End Approach 
 ```
 
-<img src='images/Performance Vs Data.png'/>
+<img src='https://raw.githubusercontent.com/sayondutta/sayondutta.github.io/master/_posts/images/Performance%20Vs%20Data.png'/>
+
